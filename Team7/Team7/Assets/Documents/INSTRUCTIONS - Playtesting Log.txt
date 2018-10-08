@@ -1,0 +1,27 @@
+Instructions to play the game:
+- Level 1: Press Left Arrow and Right Arrow (or A and D) to move the bottom cloud to the left and the right, respectively. The top cloud, however, will move in the opposite direction.
+- Level 2: Press Up Arrow and Down Arrow (or W and S) to move the moon (left side of the screen) up and down, respectively. The sun, which is on the right side of the screen, however, will move in the opposite direction.
+- Level 3: Press Left Arrow and Right Arrow (or A and D) to move the bottom black hole to the left and the right, respectively. The top black hole, however, will move in the opposite direction.
+- Press Q to perform Tidal Wave attack in Level 1, Storms in Level 2, and Uncertain Release in Level 3
+- Press E to perform Tornado attack in Level 1 and Fire, Ice attack in Level 2, and Suction in Level 3
+- Press F to perform Lightning attack in Level 1 and Dual Lightning attack in Level 2. Currently there is no F attack in Level 3.
+
+Notes about the attacks:
+- Tidal Wave: can push the main character and the enemies
+- Tornado: lasts long, big area attack
+- Lightning attack: quick attack, will damage nearby enemies once hit an enemy or the main character
+- Storms: shoot two rings, fire and ice. They will push the main character if hit.
+- Fire attack: moderate speed, can hit only one enemy
+- Ice attack: moderate speed, will create a zone once hit an enemy. Enemies would freeze for a short amount of time if they enter the zone.
+- Dual Lightning attack: quick attack, will damage nearby enemies once hit an enemy or the main character (faster cooldown than normal Lightning attack in Level 1).
+- Suction: pull all the enemies nearby into the black holes. If enemies collide while being sucked into the black hole, they will explode. Currently does not affect the main character.
+- Uncertain Release: perform one of these attacks randomly: Lightning (lower speed), Fire, Ice, and Tidal Wave.
+All of the attacks will deal damage to the main character if they hit him.
+
+Control the clouds, the sun, the moon, and the black holes and perform elemental attacks to protect the main character (the king) from the enemies (the zombie-like creatures). Be careful, the elemental attacks can hurt not only the enemies, but also the main character.
+
+If the main character gets to the end of the path and reaches the black and pink portal, you win the level.
+
+There are currently three levels. Level 3 is still being developed, with one more attack to be added.
+
+- Kyle Pham

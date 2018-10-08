@@ -1,0 +1,24 @@
+Instructions to play the game:
+- Level 1: Press Left Arrow and Right Arrow to move the bottom cloud to the left and the right, respectively. The top cloud, however, will move in the opposite direction.
+- Level 2: Press Up Arrow and Down Arrow to move the moon (left side of the screen) up and down, respectively. The sun, which is on the right side of the screen, however, will move in the opposite direction.
+- Press Q to perform Tidal Wave attack in Level 1 and Storms in Level 2
+- Press E to perform Tornado attack in Level 1 and Fire and Ice attack in Level 2
+- Press F to perform Lightning attack in Level 1 and Dual Lightning attack in Level 2
+
+Notes about the attacks:
+- Tidal Wave: can push the main character and the enemies
+- Tornado: lasts long, big area
+- Lightning attack: quick attack, will damage nearby enemies once hit an enemy or the main character
+- Storms: shoot two rings, fire and ice. If the rings collide, create a black hole that temporarily blocks the view of the map
+- Fire attack: moderate speed, can hit only one enemy
+- Ice attack: moderate speed, will freeze enemy once hit
+- Dual Lightning attack: quick attack, will damage nearby enemies once hit an enemy or the main character
+All of the attacks will deal damage to the main character if they hit him.
+
+Control the clouds, the sun, and the moon and perform elemental attacks to protect the main character (the king) from the enemies (the zombie-like creatures). Be careful, the elemental attacks can hurt not only the enemies, but also the main character.
+
+If the main character gets to the end of the path and reaches the black and pink portal, you win the level.
+
+There are currently two levels (the tutorial level is not in the build).
+
+- Kyle Pham

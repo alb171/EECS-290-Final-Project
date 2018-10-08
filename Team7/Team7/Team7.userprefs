@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pause.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Enemy\CameraShaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\attack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SunMoonControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SunCloudMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SideScroll.cs" Line="18" Column="2" />
+      <File FileName="Assets\Scripts\Pause.cs" Line="23" Column="23" />
+      <File FileName="Assets\Scripts\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScrollGameObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\Damager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\ObjectPool.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy2\FollowTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NextLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TriggerSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FollowCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SideScrollCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuSelection.cs" Line="19" Column="1" />
+      <File FileName="Assets\Scripts\LevelLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\CharacterController2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\Damageable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Instructions.cs" Line="21" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,12 @@
+Instructions to play the game:
+- Press Left Arrow and Right Arrow to move the bottom cloud to the left and the right, respectively. The top cloud, however, will move in the opposite direction.
+- Press Q to perform Ice attack
+- Press E to perform Fire attack
+- Press F to perform Lightning attack
+
+Control the clouds and perform elemental attacks to protect the main character (blue circle) from the enemies (black circle). Be careful, the elemental attacks can hurt not only the enemies, but also the main character.
+
+If the main character gets to the end of the path and reaches the black and pink portal, you win the tutorial level.
+
+
+- Kyle Pham
